@@ -8,7 +8,8 @@
 - 💻 I love building scalable **backend systems**
 - 🔐 Enthusiastic about **Cybersecurity** and exploring **Machine Learning** applications
 - 🧰 Working with **C#**, **Java**, and **Python**
-🗃️ Experienced in working with SQL databases in production-grade backend systems.
+- 💾 Experienced in working with SQL databases in production-grade backend systems.
+
 
 
 ---
