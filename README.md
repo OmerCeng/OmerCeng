@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋🏻, I'm Omer Faruk</h1>
+<h1 align="center">Hi, I'm Omer Faruk</h1>
 <h3 align="center">A Computer Engineering student passionate about Backend Development, Cybersecurity, and Machine Learning</h3>
 
 ---
