@@ -1,6 +1,6 @@
 <h1 align="center">Omer Faruk</h1>
 <p align="center">
-🎓 Final Year Computer Engineering Student  
+🎓 Computer Engineer
 <br/>
 💻 Backend • 🔐 Cybersecurity • 🤖 AI  
 <br/>
