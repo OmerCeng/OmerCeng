@@ -11,7 +11,7 @@
 
 ### 🧠 About
 
-I’m a final year Computer Engineering student focused on backend development and security-oriented systems.
+I’m a Computer Engineer focused on backend development and security-oriented systems.
 
 I enjoy building practical tools and learning by developing real-world projects.  
 Currently improving my skills in API development, cybersecurity practices, and AI-based systems.
