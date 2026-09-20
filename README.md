@@ -16,7 +16,7 @@ Interested in building reliable, well-tested systems — from API design to vuln
 
 **Languages** — Python · C# · Java  
 **Backend** — REST APIs · CRUD · Auth · Data Validation  
-**Databases** — SQL Server · PostgreSQL  
+**Databases** — SQL Server · PostgreSQL · MySQL 
 **AI / ML** — Machine Learning · NLP · LLMs · Deep Learning · PyTorch  
 **Security** — Network Analysis · Vulnerability Detection · Penetration Testing  
 **Tooling** — Git · Docker · Nmap · Wireshark · Metasploit
