@@ -1,66 +1,24 @@
 <h1 align="center">Omer Faruk</h1>
 <p align="center">
-🎓 Computer Engineer
-<br/>
-💻 Backend • 🔐 Cybersecurity • 🤖 AI  
-<br/>
-⚡ Built VS-CodeShield & CyberNest
+Computer Engineer &nbsp;·&nbsp; Backend &nbsp;·&nbsp; Cybersecurity &nbsp;·&nbsp; AI
 </p>
 
 ---
 
-### 🧠 About
+### About
 
-I’m a Computer Engineer focused on backend development and security-oriented systems.
-
-I enjoy building practical tools and learning by developing real-world projects.  
-Currently improving my skills in API development, cybersecurity practices, and AI-based systems.
+Computer Engineer focused on backend systems, applied security, and AI/LLM-based tooling.
+Interested in building reliable, well-tested systems — from API design to vulnerability detection to model integration.
 
 ---
 
-### 🚀 Featured Projects
+### Stack
 
-**🛡️ VS-CodeShield**  
-A Visual Studio Code extension for real-time static code analysis to detect common security vulnerabilities.  
-Provides inline warnings to support secure coding practices.  
-Published on Visual Studio Marketplace.
-
-**🧩 CyberNest**  
-A CLI-based cybersecurity toolkit for network reconnaissance and vulnerability analysis.  
-Includes modules for phishing detection, password analysis, and web resource scanning.
+**Languages** — Python · C# · Java  
+**Backend** — REST APIs · CRUD · Auth · Data Validation  
+**Databases** — SQL Server · PostgreSQL  
+**AI / ML** — Machine Learning · NLP · LLMs · Deep Learning · PyTorch  
+**Security** — Network Analysis · Vulnerability Detection · Penetration Testing  
+**Tooling** — Git · Docker · Nmap · Wireshark · Metasploit
 
 ---
-
-### ⚙️ Tech Stack
-
-**💻 Languages**  
-Python • C# • Java  
-
-**🗄️ Databases**  
-SQL Server • PostgreSQL  
-
-**🔧 Backend**  
-REST APIs • CRUD • Authentication • Data Validation  
-
-**🤖 AI / ML**  
-Machine Learning • NLP • LLM • PyTorch  
-
-**🔐 Cybersecurity**  
-Network Analysis • Vulnerability Detection • Penetration Testing  
-
-**🛠️ Tools**  
-Git • Docker • Nmap • Wireshark • Metasploit  
-
----
-
-### 📌 Currently
-
-- 🚀 Improving backend and API development  
-- 🔐 Building security-focused tools  
-- 🤖 Exploring AI and LLM-based systems  
-
----
-
-<p align="center">
-⚡ learning • building • improving ⚡
-</p>
